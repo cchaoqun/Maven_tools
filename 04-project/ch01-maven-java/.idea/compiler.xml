@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch01-maven" />
+        <module name="ch01-maven-java" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01-maven" target="1.8" />
+      <module name="ch01-maven (1)" target="1.8" />
+      <module name="ch01-maven-java" target="1.8" />
+      <module name="ch01-maven-java (1)" target="1.8" />
+      <module name="ch02-maven-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
